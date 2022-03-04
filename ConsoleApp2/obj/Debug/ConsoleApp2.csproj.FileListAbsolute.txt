@@ -1,0 +1,10 @@
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\bin\Debug\LibLoginAuthenticator.dll
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\bin\Debug\LibLoginAuthenticator.pdb
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\lavis\source\repos\LibLoginAuthenticator\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
